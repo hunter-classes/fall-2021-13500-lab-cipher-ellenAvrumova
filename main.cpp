@@ -1,9 +1,7 @@
 #include <iostream>
-
-
 #include "funcs.h"
 
-int main()
-{
+int main() {
+  solve("hellohello");
   return 0;
 }
