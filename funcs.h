@@ -7,6 +7,7 @@
 */
 
 #pragma once
+#include <vector>
 #include <string>
 
 std::string solve(std::string encrypted_string);
