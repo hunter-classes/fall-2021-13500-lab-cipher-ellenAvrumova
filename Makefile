@@ -1,3 +1,9 @@
+# Author: Ellen Avrumova
+# Course: CSCI-135
+# Instructor: Tong Yi & Mike Zamansky
+# Assignment: Lab Cipher
+# This is the make file for Lab Cipher.
+
 main: main.o funcs.o
 	g++ -o main main.o funcs.o -std=c++11
 
