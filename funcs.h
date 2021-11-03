@@ -1,3 +1,11 @@
+/**
+ * Author: Ellen Avrumova
+ * Course: CSCI-135
+ * Instructor: Tong Yi & Mike Zamansky
+ * Assignment: Lab Cipher
+ * This is the header file for Lab Cipher
+*/
+
 #pragma once
 #include <string>
 

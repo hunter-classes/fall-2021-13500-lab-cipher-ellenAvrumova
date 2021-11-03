@@ -1,3 +1,12 @@
+/**
+ * Author: Ellen Avrumova
+ * Course: CSCI-135
+ * Instructor: Tong Yi & Mike Zamansky
+ * Assignment: Lab Cipher
+ * This is file contains all the functions in Lab Cipher
+ * shiftChar, encryptCeasar, isLetter, distance, and solve are all the functions.
+*/
+
 #include <iostream>
 #include <vector>
 #include <float.h>
